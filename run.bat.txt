@@ -1,0 +1,2 @@
+C:\Users\Dell\Desktop\Work Place\OpenCartV
+mvn test
